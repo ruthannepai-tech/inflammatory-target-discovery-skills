@@ -30,6 +30,10 @@ Each skill is an [Agent Skill](https://docs.claude.com/en/docs/agents-and-tools/
 
 Research methodology from a hackathon target-discovery project. Not clinical software; nothing here is validated for clinical use. See each skill's honesty/provenance section for scope and limits.
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) — skill anatomy, `kernel.py` constraints, the non-negotiable scientific conventions, and how to adapt a skill to a new disease.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
